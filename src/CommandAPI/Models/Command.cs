@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace CommandAPI.Model
+namespace CommandAPI.Models
 {
     public class Command
     {
